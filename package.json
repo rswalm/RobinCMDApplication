@@ -1,0 +1,20 @@
+{
+  "name": "20200724",
+  "version": "1.0.0",
+  "description": "",
+  "main": "input.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^7.3.3",
+    "mssql": "^6.2.1",
+    "text-table": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
